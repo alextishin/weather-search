@@ -1,0 +1,21 @@
+.wrapper {
+	min-width: 900px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.inlineBlock {
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+}
+
+.question {
+	padding-right: 20px;
+}
+
+.wizardsContainer {
+	width: 100%;
+	padding: 10px;
+	text-align: left;
+}

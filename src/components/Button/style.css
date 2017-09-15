@@ -1,0 +1,20 @@
+.button {
+	display: inline-block;
+	vertical-align: top;
+
+	/*min-width: 34px;*/
+	/*height: 34px;*/
+	/*margin: 5px;*/
+}
+
+.button__btn {
+	border: none;
+	text-align: center;
+	background: #34a0c7;
+}
+
+.button__text {
+	display: inline-block;
+	text-align: center;
+	color: #fff;
+}
